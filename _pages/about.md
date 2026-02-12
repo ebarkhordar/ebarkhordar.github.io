@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I received my M.Sc. in Computer Science from [Koç University](https://www.ku.edu.tr/en/), where I was advised by [Prof. Gözde Gül Şahin](https://gozdesahin.github.io/) (primary) and [Assoc. Prof. Erdem Yörük](https://mysite.ku.edu.tr/eyoruk/) (co-advisor). My research focuses on **Natural Language Processing (NLP)** and **Computational Social Science**, with particular interests in bias detection, hate speech detection, and multilingual NLP.
+I received my M.Sc. in Computer Science from [Koç University](https://www.ku.edu.tr/en/), where I was advised by [Asst. Prof. Gözde Gül Şahin](https://gozdesahin.github.io/) (primary) and [Professor Erdem Yörük](https://scholar.google.com.tr/citations?user=WHMhrZcAAAAJ) (co-advisor). My research focuses on **Natural Language Processing (NLP)** and **Computational Social Science**, with particular interests in bias detection, hate speech detection, and multilingual NLP.
 
 I have authored multiple first-author papers published at venues including ACM Web Science, LREC-COLING (SIGUL), and CASE workshops. My work spans investigating politico-economic bias in language models, multimodal hate speech detection, and leveraging LLMs for social science applications. I also actively serve as a reviewer for ARR, EMNLP, ICLR, and related venues, having reviewed 100+ papers.
 

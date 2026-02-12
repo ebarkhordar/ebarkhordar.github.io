@@ -475,16 +475,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-comp-100-introduction-to-computer-science-and-programming",
+          title: 'COMP 100 - Introduction to Computer Science and Programming',
+          description: "Supported an introductory Python programming course with 200+ students enrolled. Graded weekly assignments, organized lab sessions, and assisted students in debugging.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/comp-100-spring-2024/";
+            },},{id: "teachings-comp-202-data-structures-and-algorithms-in-java",
+          title: 'COMP 202 - Data Structures and Algorithms in Java',
+          description: "Led weekly lab/tutorial sessions for 50+ undergraduate students on data structures and Java programming. Held office hours, graded assignments/projects, and provided one-on-one academic support.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/comp-202-spring-2023/";
+            },},{id: "teachings-comp-302-software-engineering",
+          title: 'COMP 302 - Software Engineering',
+          description: "Facilitated lectures and labs on software engineering practices including testing, CI/CD, and agile methods. Provided technical mentorship to 60+ students on system design and collaborative workflows.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/comp-302-2024-2025/";
+            },},{id: "teachings-comp-491-senior-design-project",
+          title: 'COMP 491 - Senior Design Project',
+          description: "Advised senior students on project design, implementation, and research methodology. Evaluated technical documentation and presentations, and provided structured feedback.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/comp-491-fall-2023/";
             },},{
         id: 'social-email',
         title: 'email',

@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: M.Sc. in Computer Science, <a href='https://www.ku.edu.tr/en/'>Koç University</a> | NLP & Computational Social Science Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Koç University</p>
+    <p>Istanbul, Turkey</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +21,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received my M.Sc. in Computer Science from [Koç University](https://www.ku.edu.tr/en/), where I was advised by [Prof. Gözde Gül Şahin](https://gozdesahin.github.io/) (primary) and [Assoc. Prof. Erdem Yörük](https://mysite.ku.edu.tr/eyoruk/) (co-advisor). My research focuses on **Natural Language Processing (NLP)** and **Computational Social Science**, with particular interests in bias detection, hate speech detection, and multilingual NLP.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have authored multiple first-author papers published at venues including ACM Web Science, LREC-COLING (SIGUL), and CASE workshops. My work spans investigating politico-economic bias in language models, multimodal hate speech detection, and leveraging LLMs for social science applications. I also actively serve as a reviewer for ARR, EMNLP, ICLR, and related venues, having reviewed 100+ papers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining Koç University, I worked as an ML Engineer and Senior Software Engineer, building scalable systems and predictive models in industry. I hold two degrees from Amirkabir University of Technology (Tehran Polytechnic) — an M.Sc. and B.Sc. in Computer Science.

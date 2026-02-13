@@ -31,3 +31,5 @@ I received my M.Sc. in Computer Science from [Koç University](https://www.ku.ed
 I have authored multiple first-author papers published at venues including ACM Web Science, LREC-COLING (SIGUL), and CASE workshops. My work spans investigating politico-economic bias in language models, multimodal hate speech detection, and leveraging LLMs for social science applications. I also actively serve as a reviewer for ARR, EMNLP, ICLR, and related venues, having reviewed 100+ papers.
 
 Before joining Koç University, I worked as an ML Engineer and Senior Software Engineer, building scalable systems and predictive models in industry. I hold two degrees from Amirkabir University of Technology (Tehran Polytechnic) — an M.Sc. and B.Sc. in Computer Science.
+
+I am currently looking for a **PhD opportunity in Computer Science**. If you think I would be a good fit for your research group, please feel free to [reach out](mailto:ehsan.barkhordar@gmail.com) — I'd love to connect!

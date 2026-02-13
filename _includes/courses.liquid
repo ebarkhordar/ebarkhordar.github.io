@@ -18,7 +18,13 @@
               {% endif %}
 
               {% if course.instructor %}
-                <span class="course-instructor">{{ course.instructor }}</span>
+                <span class="course-instructor">
+                  {% if course.instructor_url %}
+                    <a href="{{ course.instructor_url }}" target="_blank" rel="noopener noreferrer">{{ course.instructor }}</a>
+                  {% else %}
+                    {{ course.instructor }}
+                  {% endif %}
+                </span>
               {% endif %}
             </div>
 

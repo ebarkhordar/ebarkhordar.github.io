@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-18'
 papers:
   rhsSW1gAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -10,7 +10,7 @@ papers:
     title: 'Team Curie at HSD-2Lang 2024: Hate Speech Detection in Turkish and Arabic Tweets using BERT-based models'
     year: '2024'
   rhsSW1gAAAAJ:Y0pCki6q_DkC:
-    citations: 6
+    citations: 7
     title: Which Side Are You On? Investigating Politico-Economic Bias in Nepali Language Models
     year: '2024'
   rhsSW1gAAAAJ:qjMakFHDy7sC:

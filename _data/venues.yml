@@ -1,9 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"WebSci":
+  url: https://websci24.org/
+  color: "#2196F3"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"LREC-COLING":
+  url: https://lrec-coling-2024.org/
+  color: "#4CAF50"
 
-"Vision":
-  color: "#009f36"
+"SIGUL":
+  url: https://sigul-2024.ilc.cnr.it/
+  color: "#4CAF50"
+
+"CASE":
+  url: https://emw.ku.edu.tr/case-2024/
+  color: "#FF9800"
+
+"ALTA":
+  url: https://www.alta.asn.au/
+  color: "#9C27B0"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#B71C1C"
+
+"ACL":
+  url: https://www.aclweb.org/
+  color: "#1565C0"
+
+"EMNLP":
+  url: https://2024.emnlp.org/
+  color: "#00796B"
+
+"ARR":
+  url: https://aclrollingreview.org/
+  color: "#1565C0"

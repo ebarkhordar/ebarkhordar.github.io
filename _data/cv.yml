@@ -1,189 +1,165 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Ehsan Barkhordar
+  label: NLP & Computational Social Science Researcher
+  email: ebarkhordar23@ku.edu.tr
+  location: Istanbul, Turkey
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: M.Sc. in Computer Science from Koç University. Research focuses on NLP and Computational Social Science, including bias detection, hate speech detection, and multilingual NLP.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: ebarkhordar
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: ebarkhordar
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Koç University
+        location: Istanbul, Turkey
+        url: https://www.ku.edu.tr/en/
+        area: Computer Science
+        studyType: M.Sc.
+        start_date: 2023-02
+        end_date: 2026-01
+        score: "GPA: 3.8/4.0"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Ranked #1 in Turkey (QS 2026)"
+          - "Advisors: Prof. Gözde Gül Şahin (primary), Assoc. Prof. Erdem Yörük (co-advisor)"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Amirkabir University of Technology (Tehran Polytechnic)
+        location: Tehran, Iran
+        url: https://aut.ac.ir/en
+        area: Computer Science
+        studyType: M.Sc.
+        start_date: 2018-09
+        end_date: 2021-03
+        score: "GPA: 15.15/20 (3.1/4.0)"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Ranked #3 in Iran (QS 2026)"
+
+      - institution: Amirkabir University of Technology (Tehran Polytechnic)
+        location: Tehran, Iran
+        url: https://aut.ac.ir/en
+        area: Computer Science
+        studyType: B.Sc.
+        start_date: 2013-09
+        end_date: 2018-04
+        score: "GPA: 14.79/20 (3.0/4.0)"
+        highlights:
+          - "Ranked #3 in Iran (QS 2026)"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Koç University
+        position: Researcher in NLP & Computational Social Science
+        location: Istanbul, Turkey
+        start_date: 2023-02
+        end_date: ""
+        summary: ""
         highlights:
-          - Relativity
-          - Description 2.
+          - Led a multimodal hate speech detection project integrating textual and visual modalities.
+          - Authored three first-author papers in computational social science.
+          - Reviewed 100+ papers for ARR, EMNLP, ICLR, and related venues.
+          - Trained and fine-tuned transformer-based models (BERT, RoBERTa, GPT) for NER and related tasks.
+          - Supervised two research interns, providing mentorship and task delegation.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Pishro Net Energy
+        position: Machine Learning Engineer
+        location: Tehran, Iran
+        start_date: 2022-08
+        end_date: 2023-01
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Designed and deployed end-to-end ML pipelines for real-time energy monitoring across 1,000+ sensor streams (10 buildings), reducing forecasting error by 21%."
+          - Created data-driven dashboards for 150+ KPIs to support facility managers in decision-making.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Sokan Platform
+        position: Machine Learning Engineer
+        location: Tehran, Iran
+        start_date: 2021-04
+        end_date: 2022-02
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Built predictive models for customer analytics, including churn prediction (82% accuracy) and cohort-based sales insights."
+          - "Optimized large-scale data pipelines (1B+ records) using TensorFlow, Kubeflow, and Mini-batch K-means."
+
+      - company: Sokan Platform
+        position: Senior Software Engineer
+        location: Tehran, Iran
+        start_date: 2020-09
+        end_date: 2021-04
+        highlights:
+          - "Implemented asynchronous task management in Django with Celery, reducing computational overhead by 40%."
+          - Accelerated analytics retrieval speed 5x via ClickHouse migration.
+          - "Delivered 50+ GraphQL APIs using Django Graphene, reducing frontend data-fetching overhead by 35%."
+
+      - company: Bale Messenger
+        position: Software Engineer
+        location: Tehran, Iran
+        start_date: 2018-01
+        end_date: 2020-02
+        highlights:
+          - Contributed to the development of a cross-platform messaging application with 8M+ users.
+          - "Created a Python-based bot SDK adopted by 200+ developers, powering 500+ bots."
+          - "Participated in migration to Golang microservices, achieving >7x performance gains."
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: "2nd Rank — Hate Speech Detection in Turkish and Arabic Tweets (HSD-2Lang)"
+        date: 2024
+        awarder: CASE Workshop
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: "Invited Participant — Lisbon Machine Learning School (LxMLS 2023)"
+        date: 2023
+        awarder: LxMLS
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: "One of 5 Selected Teams — Fusion Startup Event"
+        date: 2022
+        awarder: divar.ir
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: "28th Place / 1608 Participants — Django/Python Code Cup"
+        date: 2020
+        awarder: quera.ir
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: "2nd Team — Hackathon, Amirkabir University"
+        date: 2019
+        awarder: Amirkabir University
+
+      - title: "Winner — BOT-CUP"
+        date: 2018
+        awarder: Sharif University of Technology
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python (Advanced, OOP, Async), SQL (Analytical & OLTP), Bash/Shell"
+
+      - name: Python Frameworks
+        icon: fa-brands fa-python
+        keywords: "PyTorch, Hugging Face (Transformers, Datasets, Accelerate, PEFT), Scikit-learn, Pandas, NumPy"
+
+      - name: GenAI & NLP
+        icon: fa-solid fa-brain
+        keywords: "LLMs (Fine-tuning, RAG), Embeddings & Retrieval, Prompt Engineering, LLM Reasoning, LLM Evaluation, Text Classification, Multilingual NLP"
+
+      - name: Research Tools
+        icon: fa-solid fa-flask
+        keywords: "LaTeX (ACL/IEEE/ACM styles), Overleaf, Git/GitHub, Jupyter, MLflow/W&B, Experiment Tracking"
+
+      - name: Databases & Analytics
+        icon: fa-solid fa-database
+        keywords: "PostgreSQL, MongoDB, ClickHouse"
+
+      - name: Backend & APIs
+        icon: fa-solid fa-server
+        keywords: "FastAPI, REST APIs, GraphQL, Celery, Redis, Auth (JWT/OAuth2)"
+
+      - name: Dev Tools
+        icon: fa-solid fa-toolbox
+        keywords: "Git/GitHub, Docker, Jupyter, Cursor"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Persian
+        summary: "Native"
 
       - name: English
-        summary: "Fluent"
+        summary: "Fluent — TOEFL iBT 103/120"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Turkish
+        summary: "Beginner"

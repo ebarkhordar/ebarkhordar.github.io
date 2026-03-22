@@ -1,34 +1,63 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"sahin":
+  - firstname: ["Gözde Gül", "G. G."]
+    url: https://gozdesahin.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"yoruk":
+  - firstname: ["Erdem"]
+    url: https://scholar.google.com.tr/citations?user=WHMhrZcAAAAJ
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"thapa":
+  - firstname: ["Surendrabikram", "S."]
+    url: https://scholar.google.com/citations?user=mO7JJHkAAAAJ
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"naseem":
+  - firstname: ["Usman", "U."]
+    url: https://scholar.google.com/citations?user=xtHr4LAAAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"hurriyet":
+  - firstname: ["Arda", "A.", "Ali"]
+    url: https://scholar.google.com/citations?user=ALMnJMoAAAAJ
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"safa":
+  - firstname: ["Abdulfattah"]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"blaschke":
+  - firstname: ["Verena"]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"de marneffe":
+  - firstname: ["Marie-Catherine"]
+    url: https://scholar.google.com/citations?user=LNS7fTQAAAAJ
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"shirali-shahreza":
+  - firstname: ["Mohammad Hassan", "M. H."]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
+
+"sadeghi":
+  - firstname: ["Hamid Reza", "H. R."]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
+
+"atsizelti":
+  - firstname: ["Sükreü", "Sukru", "S."]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
+
+"maratha":
+  - firstname: ["Aishwarya", "Ashwarya"]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
+
+"rauniyar":
+  - firstname: ["Kritesh", "K."]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
+
+"veeramani":
+  - firstname: ["Hariram", "H."]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
+
+"topcu":
+  - firstname: ["Işık", "Irem", "I."]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER
+
+"lombart":
+  - firstname: ["Erika"]
+    url: https://scholar.google.com/citations?user=PLACEHOLDER

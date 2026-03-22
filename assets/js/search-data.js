@@ -112,7 +112,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%72%65%61%6C%62%61%72%6B%68%6F%72%64%61%72@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%65%62%61%72%6B%68%6F%72%64%61%72%32%33@%6B%75.%65%64%75.%74%72", "_blank");
         },
       },{
         id: 'social-github',
@@ -134,6 +134,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=rhsSW1gAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.semanticscholar.org/author/2302559681", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-5990-6091", "_blank");
         },
       },{
         id: 'social-stackoverflow',

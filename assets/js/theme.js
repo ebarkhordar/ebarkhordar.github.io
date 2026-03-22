@@ -2,6 +2,7 @@
 
 // Toggle through light, dark, and system theme settings.
 let toggleThemeSetting = () => {
+  transTheme();
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
     setThemeSetting("light");
@@ -25,7 +26,6 @@ let setThemeSetting = (themeSetting) => {
 let applyTheme = () => {
   let theme = determineComputedTheme();
 
-  transTheme();
   setHighlight(theme);
   setGiscusTheme(theme);
   setSearchTheme(theme);
@@ -307,6 +307,7 @@ let initTheme = () => {
 
   // Add event listener to the system theme preference change.
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
+    transTheme();
     applyTheme();
   });
 };

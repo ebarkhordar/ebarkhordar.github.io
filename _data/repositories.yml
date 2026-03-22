@@ -4,6 +4,3 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - ebarkhordar/llm-collusion
-  - ebarkhordar/shilling-attack-detection-for-recommender-systems
-  - GGLAB-KU/fulgid

@@ -1,9 +1,12 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-email: realbarkhordar@gmail.com # your email address
+email: ebarkhordar23@ku.edu.tr # your email address
 github_username: ebarkhordar # your GitHub username
 linkedin_username: ebarkhordar # your LinkedIn username
 scholar_userid: rhsSW1gAAAAJ # your Google Scholar ID
+semanticscholar_id: 2302559681 # your Semantic Scholar ID
+orcid_id: 0000-0001-5990-6091 # your ORCID ID
+openreview_id: "~Ehsan_Barkhordar1" # your OpenReview ID
 stackoverflow_id: 6672114/ehsan # your StackOverflow ID
 rss_icon: true # comment this line to hide the RSS icon

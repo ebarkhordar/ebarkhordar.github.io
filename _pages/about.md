@@ -32,4 +32,4 @@ I have authored multiple first-author papers published at venues including ACM W
 
 Before joining Koç University, I worked as an ML Engineer and Senior Software Engineer, building scalable systems and predictive models in industry. I hold two degrees from Amirkabir University of Technology (Tehran Polytechnic) — an M.Sc. and B.Sc. in Computer Science.
 
-I am currently looking for a **PhD opportunity in Computer Science**. If you think I would be a good fit for your research group, please feel free to [reach out](mailto:ehsan.barkhordar@gmail.com) — I'd love to connect!
+I am currently looking for a **PhD opportunity in Computer Science**. If you think I would be a good fit for your research group, please feel free to [reach out](mailto:ebarkhordar23@ku.edu.tr) — I'd love to connect!

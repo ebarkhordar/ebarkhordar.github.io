@@ -1,12 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/academic_cv.pdf
-cv_format: rendercv # options: rendercv, jsonresume
 description: My academic curriculum vitae.
-toc:
-  sidebar: left
 ---
+
+You can download my CV using the button above.

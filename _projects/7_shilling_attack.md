@@ -12,6 +12,6 @@ related_publications: false
 
 [GitHub Repository](https://github.com/ebarkhordar/shilling-attack-detection-for-recommender-systems)
 
-*   Investigated detection of profile injection (shilling) attacks in recommender systems.
-*   Extracted RDMA, WDA, and TF-IDF features from movie rating data.
-*   Evaluated multiple classifiers (KNN, Random Forest, SVM) in parallel, selecting best-performing model.
+- Investigated detection of profile injection (shilling) attacks in recommender systems.
+- Extracted RDMA, WDA, and TF-IDF features from movie rating data.
+- Evaluated multiple classifiers (KNN, Random Forest, SVM) in parallel, selecting best-performing model.

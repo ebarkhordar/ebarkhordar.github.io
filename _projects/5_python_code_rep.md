@@ -12,6 +12,6 @@ related_publications: false
 
 [GitHub Repository](https://github.com/GGLAB-KU/fulgid)
 
-*   Explored Python code representation as an intermediate reasoning layer for LLMs.
-*   Code-based prompting improved accuracy from 68.29% to 86.76%.
-*   Validated reasoning quality through code execution, highlighting benefits of symbolic representation.
+- Explored Python code representation as an intermediate reasoning layer for LLMs.
+- Code-based prompting improved accuracy from 68.29% to 86.76%.
+- Validated reasoning quality through code execution, highlighting benefits of symbolic representation.

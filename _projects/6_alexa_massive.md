@@ -12,6 +12,6 @@ related_publications: false
 
 [GitHub Repository](https://github.com/alexa/massive)
 
-*   Participated in the Massively Multilingual NLU 2022 shared task.
-*   Trained multilingual intent and slot-filling models on the Alexa MASSIVE dataset using PyTorch and custom hyper-parameters.
-*   Target: general-purpose multilingual NLU without language-specific tuning.
+- Participated in the Massively Multilingual NLU 2022 shared task.
+- Trained multilingual intent and slot-filling models on the Alexa MASSIVE dataset using PyTorch and custom hyper-parameters.
+- Target: general-purpose multilingual NLU without language-specific tuning.

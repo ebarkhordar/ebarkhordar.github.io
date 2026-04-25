@@ -4,3 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - ebarkhordar/llm-collusion
+  - ebarkhordar/social-media-feeds
+  - ebarkhordar/medium
+  - ebarkhordar/ebarkhordar.github.io

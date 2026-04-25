@@ -8,9 +8,7 @@ github: https://github.com/ebarkhordar/llm-collusion
 related_publications: false
 ---
 
-**May 2025 – Present**
-
-[GitHub Repository](https://github.com/ebarkhordar/llm-collusion)
+**May 2025 – Mar 2026** (discontinued) | Code: [ebarkhordar/llm-collusion](https://github.com/ebarkhordar/llm-collusion) (archived)
 
 - Investigates whether large language models can recognize or attribute code authored by themselves or other LLMs.
 - Implemented three attribution tasks: Self-Recognition, Target Identification, and Full Attribution.

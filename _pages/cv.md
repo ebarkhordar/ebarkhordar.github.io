@@ -5,7 +5,5 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/academic_cv.pdf
-description: My academic curriculum vitae.
+description: Academic CV — research, work, education, publications, and projects. PDF available via the icon above.
 ---
-
-You can download my CV using the button above.

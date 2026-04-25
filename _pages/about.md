@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Koç University</p>
-    <p>Istanbul, Turkey</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -63,6 +60,27 @@ I'm an NLP researcher working on <strong>bias detection</strong>, <strong>multil
 I received my M.Sc. in Computer Science from [Koç University](https://www.ku.edu.tr/en/) with a **3.8 / 4.0 GPA**, advised by [Asst. Prof. Gözde Gül Şahin](https://gozdesahin.github.io/) (primary) and [Prof. Erdem Yörük](https://scholar.google.com.tr/citations?user=WHMhrZcAAAAJ) (co-advisor). Before Koç, I worked as an ML and senior software engineer building production systems and predictive models, and I also hold an M.Sc. and B.Sc. in Computer Science from Amirkabir University of Technology (Tehran Polytechnic).
 
 I've authored multiple first-author papers at venues including ACM Web Science, LREC-COLING (SIGUL), and CASE workshops, and serve as a reviewer for ARR, EMNLP, ICLR, and related venues — 100+ papers reviewed to date.
+
+### Beyond research
+
+<div class="about-hobbies">
+  <div class="hobby-tile">
+    <span class="hobby-tile__icon"><i class="fa-solid fa-mountain-sun"></i></span>
+    <span class="hobby-tile__text">Exploring nature</span>
+  </div>
+  <div class="hobby-tile">
+    <span class="hobby-tile__icon"><i class="fa-solid fa-chess"></i></span>
+    <span class="hobby-tile__text">Strategic video games</span>
+  </div>
+  <div class="hobby-tile">
+    <span class="hobby-tile__icon"><i class="fa-solid fa-volleyball"></i></span>
+    <span class="hobby-tile__text">Competitive volleyball in high school</span>
+  </div>
+  <div class="hobby-tile">
+    <span class="hobby-tile__icon"><i class="fa-solid fa-comments"></i></span>
+    <span class="hobby-tile__text">Political discussions, occasionally</span>
+  </div>
+</div>
 
 ### Selected highlights
 

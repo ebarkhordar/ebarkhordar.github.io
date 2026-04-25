@@ -27,7 +27,7 @@ latest_posts:
   <span class="focus-chip">NLP</span>
   <span class="focus-chip">Computational Social Science</span>
   <span class="focus-chip">Bias &amp; Evaluation</span>
-  <span class="focus-chip focus-chip--accent">Agentic AI</span>
+  <span class="focus-chip">Agentic AI</span>
 </div>
 
 {::nomarkdown}

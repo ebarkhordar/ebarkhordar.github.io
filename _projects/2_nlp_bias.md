@@ -7,7 +7,7 @@ category: work
 related_publications: false
 ---
 
-**Jul 2025 – Present** | Koç University (Repository Private)
+**Jul 2025 – Present** | Koç University | Paper: [arXiv:2604.07119](https://arxiv.org/abs/2604.07119) (code repository private)
 
 - First large-scale study quantifying language-related bias in NLP peer reviews, focusing on systematic disadvantages for non-English research.
 - Compiled and analyzed 6,000+ reviews from EMNLP 2023, ICLR 2025, and ICML 2025, annotated for language bias.

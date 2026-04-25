@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: NLP & Computational Social Science researcher · M.Sc., <a href='https://www.ku.edu.tr/en/'>Koç University</a>
 
@@ -33,7 +33,26 @@ latest_posts:
   <span class="focus-chip focus-chip--accent">Agentic AI</span>
 </div>
 
-I'm an NLP researcher working on **bias detection**, **multilingual NLP**, and the social-science side of language models. These days I'm spending most of my time on **agentic AI** — how LLM-based agents reason, collaborate, and break under realistic conditions.
+{::nomarkdown}
+<p class="about-lead">
+I'm an NLP researcher working on <strong>bias detection</strong>, <strong>multilingual NLP</strong>, and the social-science side of language models. These days I'm spending most of my time on <strong>agentic AI</strong> — how LLM-based agents reason, collaborate, and break under realistic conditions.
+</p>
+
+<div class="about-stats">
+  <div class="about-stat">
+    <span class="about-stat__num">3.8<span class="about-stat__sub">/4</span></span>
+    <span class="about-stat__label">M.Sc. GPA, Koç</span>
+  </div>
+  <div class="about-stat">
+    <span class="about-stat__num">100<span class="about-stat__sub">+</span></span>
+    <span class="about-stat__label">Papers reviewed</span>
+  </div>
+  <div class="about-stat">
+    <span class="about-stat__num">6<span class="about-stat__sub">+</span></span>
+    <span class="about-stat__label">Years in industry</span>
+  </div>
+</div>
+{:/nomarkdown}
 
 <div class="about-callout">
   <strong>Open to PhD opportunities.</strong> If your group works on agentic AI, NLP for social science, or evaluation of LLM behavior, I'd love to <a href="mailto:ebarkhordar23@ku.edu.tr">connect</a>.
@@ -41,7 +60,7 @@ I'm an NLP researcher working on **bias detection**, **multilingual NLP**, and t
 
 ### Background
 
-I received my M.Sc. in Computer Science from [Koç University](https://www.ku.edu.tr/en/), advised by [Asst. Prof. Gözde Gül Şahin](https://gozdesahin.github.io/) (primary) and [Prof. Erdem Yörük](https://scholar.google.com.tr/citations?user=WHMhrZcAAAAJ) (co-advisor). Before Koç, I worked as an ML and senior software engineer building production systems and predictive models. I also hold an M.Sc. and B.Sc. in Computer Science from Amirkabir University of Technology (Tehran Polytechnic).
+I received my M.Sc. in Computer Science from [Koç University](https://www.ku.edu.tr/en/) with a **3.8 / 4.0 GPA**, advised by [Asst. Prof. Gözde Gül Şahin](https://gozdesahin.github.io/) (primary) and [Prof. Erdem Yörük](https://scholar.google.com.tr/citations?user=WHMhrZcAAAAJ) (co-advisor). Before Koç, I worked as an ML and senior software engineer building production systems and predictive models, and I also hold an M.Sc. and B.Sc. in Computer Science from Amirkabir University of Technology (Tehran Polytechnic).
 
 I've authored multiple first-author papers at venues including ACM Web Science, LREC-COLING (SIGUL), and CASE workshops, and serve as a reviewer for ARR, EMNLP, ICLR, and related venues — 100+ papers reviewed to date.
 
@@ -49,15 +68,27 @@ I've authored multiple first-author papers at venues including ACM Web Science, 
 
 <div class="about-highlights">
   <a class="highlight-chip" href="https://arxiv.org/abs/2604.07119">
-    <span class="highlight-chip__label">paper</span>
-    <span class="highlight-chip__title">LOBSTER — language-of-study bias in NLP peer reviews (arXiv preprint)</span>
+    <span class="highlight-chip__icon"><i class="fa-regular fa-file-lines"></i></span>
+    <span class="highlight-chip__body">
+      <span class="highlight-chip__title">LOBSTER — language-of-study bias in NLP peer reviews</span>
+      <span class="highlight-chip__sub">arXiv preprint, 2026</span>
+    </span>
+    <span class="highlight-chip__arrow"><i class="fa-solid fa-arrow-right"></i></span>
   </a>
   <a class="highlight-chip" href="https://scholar.google.com/citations?user=rhsSW1gAAAAJ">
-    <span class="highlight-chip__label">scholar</span>
-    <span class="highlight-chip__title">Full publication list on Google Scholar</span>
+    <span class="highlight-chip__icon"><i class="si si-google-scholar"></i></span>
+    <span class="highlight-chip__body">
+      <span class="highlight-chip__title">Google Scholar</span>
+      <span class="highlight-chip__sub">Full publication list and citations</span>
+    </span>
+    <span class="highlight-chip__arrow"><i class="fa-solid fa-arrow-right"></i></span>
   </a>
   <a class="highlight-chip" href="{{ '/projects/' | relative_url }}">
-    <span class="highlight-chip__label">projects</span>
-    <span class="highlight-chip__title">Research and engineering work</span>
+    <span class="highlight-chip__icon"><i class="fa-solid fa-flask"></i></span>
+    <span class="highlight-chip__body">
+      <span class="highlight-chip__title">Projects</span>
+      <span class="highlight-chip__sub">Research and engineering work</span>
+    </span>
+    <span class="highlight-chip__arrow"><i class="fa-solid fa-arrow-right"></i></span>
   </a>
 </div>

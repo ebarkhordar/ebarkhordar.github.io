@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: My GitHub profile and open-source contributions. Stats and trophies count public activity only.
 nav: true
 nav_order: 4

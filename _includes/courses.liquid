@@ -1,4 +1,23 @@
 {% if site.teachings %}
+  <div class="teaching-stats">
+    <div class="teaching-stat">
+      <span class="teaching-stat__num">{{ site.teachings.size }}</span>
+      <span class="teaching-stat__label">Courses</span>
+    </div>
+    <div class="teaching-stat">
+      <span class="teaching-stat__num">5</span>
+      <span class="teaching-stat__label">Semesters</span>
+    </div>
+    <div class="teaching-stat">
+      <span class="teaching-stat__num">310<span class="teaching-stat__sub">+</span></span>
+      <span class="teaching-stat__label">Students mentored</span>
+    </div>
+    <div class="teaching-stat">
+      <span class="teaching-stat__num">Koç</span>
+      <span class="teaching-stat__label">University, İstanbul</span>
+    </div>
+  </div>
+
   <div class="courses">
     {% assign courses_by_year = site.teachings | sort: 'year' | reverse | group_by: 'year' %}
 
@@ -10,15 +29,21 @@
       <div class="course-list">
         {% assign year_courses = year_group.items | sort: 'term' %}
         {% for course in year_courses %}
-          <a class="course-card" href="{{ course.url | relative_url }}">
-            <span class="course-card__icon"><i class="fa-solid fa-graduation-cap"></i></span>
+          {% assign title_parts = course.title | split: ' - ' %}
+          {% assign course_code = title_parts | first | strip %}
+          {% assign course_name = title_parts | last | strip %}
+          <article class="course-card">
+            <div class="course-card__rail">
+              <span class="course-card__code">{{ course_code }}</span>
+              <span class="course-card__role">Teaching Assistant</span>
+            </div>
             <div class="course-card__body">
-              <h3 class="course-card__title">{{ course.title }}</h3>
+              <h3 class="course-card__title">{{ course_name }}</h3>
 
               <div class="course-card__meta">
                 {% if course.term %}
                   <span class="course-card__chip">
-                    <i class="fa-regular fa-calendar"></i>{{ course.term }}
+                    <i class="fa-regular fa-calendar"></i>{{ course.term }} {{ course.year }}
                   </span>
                 {% endif %}
                 {% if course.location %}
@@ -28,17 +53,21 @@
                 {% endif %}
                 {% if course.instructor %}
                   <span class="course-card__chip">
-                    <i class="fa-regular fa-user"></i>{{ course.instructor }}
+                    <i class="fa-regular fa-user"></i>
+                    {% if course.instructor_url %}
+                      <a href="{{ course.instructor_url }}" target="_blank" rel="noopener noreferrer">{{ course.instructor }}</a>
+                    {% else %}
+                      {{ course.instructor }}
+                    {% endif %}
                   </span>
                 {% endif %}
               </div>
 
-              {% if course.description %}
-                <div class="course-card__desc">{{ course.description | markdownify }}</div>
-              {% endif %}
+              <div class="course-card__highlights">
+                {{ course.content }}
+              </div>
             </div>
-            <span class="course-card__arrow"><i class="fa-solid fa-arrow-right"></i></span>
-          </a>
+          </article>
         {% endfor %}
       </div>
     {% endfor %}

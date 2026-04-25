@@ -9,9 +9,7 @@ term: Spring
 location: Koç University
 ---
 
-## Teaching Assistant Role
-
-- Supported introductory Python programming course.
-- Organized lab sessions for 200+ students.
+- Supported an introductory Python programming course with 200+ students.
+- Organized lab sessions and held office hours.
 - Graded weekly assignments and projects.
-- Assisted students in debugging and programming logic.
+- Assisted students with debugging and programming logic.

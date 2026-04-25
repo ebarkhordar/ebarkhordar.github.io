@@ -9,9 +9,7 @@ term: Spring
 location: Koç University
 ---
 
-## Teaching Assistant Role
-
-- Led weekly lab/tutorial sessions for undergraduate students.
-- Covered topics in data structures and Java programming.
+- Led weekly lab and tutorial sessions for 50+ undergraduate students.
+- Covered data structures and Java programming.
 - Held office hours and provided one-on-one academic support.
 - Graded assignments and projects.

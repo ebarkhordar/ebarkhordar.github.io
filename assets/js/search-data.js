@@ -62,7 +62,7 @@ ninja.data = [{
               window.location.href = "/projects/1_llm_collusion/";
             },},{id: "projects-bias-toward-languages-studied-in-nlp-peer-reviews",
           title: 'Bias Toward Languages Studied in NLP Peer Reviews',
-          description: "First large-scale study quantifying language-related bias in NLP peer reviews, focusing on systematic disadvantages for non-English research.",
+          description: "First systematic study of language-of-study bias in NLP peer review, finding that non-English papers face bias rates roughly 40× higher than English-only ones.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_nlp_bias/";
             },},{id: "projects-multimodal-framework-for-detecting-implicit-hate-speech-on-social-media",

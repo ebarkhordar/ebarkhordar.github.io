@@ -4,6 +4,9 @@ title: Intent Prediction and Slot Filling with Alexa MASSIVE Dataset
 description: Trained multilingual intent and slot-filling models on the Alexa MASSIVE dataset using PyTorch and custom hyper-parameters.
 importance: 6
 category: work
+period: Feb 2022 – Apr 2022
+status: completed
+affiliation: Massively Multilingual NLU 2022 shared task
 github: https://github.com/alexa/massive
 related_publications: false
 ---

@@ -4,6 +4,8 @@ title: LLM Collusion and Identifiability in Code Generation
 description: Investigates whether large language models can recognize or attribute code authored by themselves or other LLMs.
 importance: 1
 category: work
+period: May 2025 – Mar 2026
+status: discontinued
 github: https://github.com/ebarkhordar/llm-collusion
 related_publications: false
 ---

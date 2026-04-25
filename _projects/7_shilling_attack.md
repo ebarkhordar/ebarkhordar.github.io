@@ -4,6 +4,8 @@ title: Shilling Attack Detection in Recommender Systems
 description: Investigated detection of profile injection (shilling) attacks in recommender systems.
 importance: 7
 category: work
+period: May 2020
+status: completed
 github: https://github.com/ebarkhordar/shilling-attack-detection-for-recommender-systems
 related_publications: false
 ---

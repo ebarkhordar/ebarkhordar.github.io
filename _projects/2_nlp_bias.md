@@ -4,6 +4,10 @@ title: Bias Toward Languages Studied in NLP Peer Reviews
 description: First systematic study of language-of-study bias in NLP peer review, finding that non-English papers face bias rates roughly 40× higher than English-only ones.
 importance: 2
 category: work
+period: Jul 2025 – Apr 2026
+status: published
+affiliation: Koç University
+arxiv: "2604.07119"
 github: https://github.com/GGLAB-KU/LOBSTER
 related_publications: false
 ---

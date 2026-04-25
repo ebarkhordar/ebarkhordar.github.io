@@ -1,0 +1,25 @@
+<a class="project-row" href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
+  <div class="project-row__meta">
+    {% if project.status %}
+      <span class="project-status status-{{ project.status }}">{{ project.status }}</span>
+    {% endif %}
+    {% if project.period %}
+      <span class="project-period">{{ project.period }}</span>
+    {% endif %}
+    {% if project.affiliation %}
+      <span class="project-affil">{{ project.affiliation }}</span>
+    {% endif %}
+  </div>
+
+  <h3 class="project-row__title">{{ project.title }}</h3>
+  <p class="project-row__desc">{{ project.description }}</p>
+
+  <div class="project-row__links">
+    {% if project.arxiv %}
+      <span class="project-link"><i class="fa-solid fa-file-lines"></i>arXiv:{{ project.arxiv }}</span>
+    {% endif %}
+    {% if project.github %}
+      <span class="project-link"><i class="fa-brands fa-github"></i>Code</span>
+    {% endif %}
+  </div>
+</a>

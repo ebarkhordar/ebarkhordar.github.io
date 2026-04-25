@@ -4,6 +4,9 @@ title: Named Entity Recognition in Turkish Tweets (Yildirim Platform)
 description: Developed an annotation platform (Yildirim) for labeling named entities in Turkish tweets.
 importance: 4
 category: work
+period: Jun 2024 – Sept 2024
+status: completed
+affiliation: Koç University
 related_publications: false
 ---
 

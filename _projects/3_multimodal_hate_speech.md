@@ -4,6 +4,9 @@ title: Multimodal Framework for Detecting Implicit Hate Speech on Social Media
 description: Designed a hybrid framework combining text encoders (BERT, LLaMA) with vision backbones (Swin Transformer, ViT) to detect subtle hate speech.
 importance: 3
 category: work
+period: Sept 2024 – Apr 2025
+status: completed
+affiliation: Koç University
 related_publications: false
 ---
 

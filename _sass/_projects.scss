@@ -1,0 +1,112 @@
+@use "variables";
+
+.projects-list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.project-row {
+  display: block;
+  padding: 1.1rem 1rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  text-decoration: none !important;
+  color: var(--global-text-color);
+  transition:
+    background-color 0.15s ease,
+    transform 0.15s ease;
+
+  &:hover {
+    background-color: rgba(127, 127, 127, 0.06);
+    transform: translateX(2px);
+
+    .project-row__title {
+      color: var(--global-theme-color);
+    }
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.55rem;
+    margin-bottom: 0.45rem;
+    font-size: 0.82rem;
+    color: var(--global-text-color-light);
+  }
+
+  &__title {
+    font-size: 1.18rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem 0;
+    color: var(--global-text-color);
+    transition: color 0.15s ease;
+  }
+
+  &__desc {
+    margin: 0 0 0.55rem 0;
+    color: var(--global-text-color);
+    line-height: 1.45;
+  }
+
+  &__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.1rem;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+
+    .project-link {
+      display: inline-flex;
+      align-items: center;
+
+      i {
+        margin-right: 0.35rem;
+        font-size: 0.95rem;
+      }
+    }
+  }
+}
+
+.project-status {
+  display: inline-block;
+  padding: 0.12rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  line-height: 1.3;
+
+  &.status-published {
+    background: #198754;
+    color: #fff;
+  }
+  &.status-active {
+    background: #0d6efd;
+    color: #fff;
+  }
+  &.status-completed {
+    background: var(--global-divider-color);
+    color: var(--global-text-color);
+  }
+  &.status-discontinued {
+    background: #dc3545;
+    color: #fff;
+  }
+  &.status-archived {
+    background: #6c757d;
+    color: #fff;
+  }
+}
+
+.project-affil::before {
+  content: "·";
+  margin-right: 0.55rem;
+  color: var(--global-text-color-light);
+}

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-18'
 papers:
   rhsSW1gAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Clustering of Bank Customers using LSTM-based encoder-decoder and Dynamic Time Warping
     year: '2021'
   rhsSW1gAAAAJ:roLk4NBRz8UC:
-    citations: 8
+    citations: 9
     title: Why the unexpected? dissecting the political and economic bias in persian small and large language models
     year: '2024'
   rhsSW1gAAAAJ:ufrVoPGSRksC:

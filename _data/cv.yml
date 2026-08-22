@@ -53,7 +53,7 @@ cv:
         position: Researcher in NLP & Computational Social Science
         location: Istanbul, Turkey
         start_date: 2023-02
-        end_date: ""
+        end_date: 2026-02
         summary: ""
         highlights:
           - Led a multimodal hate speech detection project integrating textual and visual modalities.
@@ -149,7 +149,7 @@ cv:
 
       - name: GenAI & NLP
         icon: fa-solid fa-brain
-        keywords: "LLMs (Fine-tuning, RAG), Embeddings & Retrieval, Prompt Engineering, LLM Reasoning, LLM Evaluation, Text Classification, Multilingual NLP"
+        keywords: "LLMs (Fine-tuning, RAG), LangChain, Embeddings & Retrieval, Prompt Engineering, LLM Reasoning, LLM Evaluation, Text Classification, Multilingual NLP"
 
       - name: Research Tools
         icon: fa-solid fa-flask
@@ -161,11 +161,11 @@ cv:
 
       - name: Backend & APIs
         icon: fa-solid fa-server
-        keywords: "FastAPI, REST APIs, GraphQL, Celery, Redis, Auth (JWT/OAuth2)"
+        keywords: "FastAPI, REST APIs, GraphQL, WebSockets, Celery, Redis, Auth (JWT/OAuth2), TypeScript/Nuxt"
 
       - name: Dev Tools
         icon: fa-solid fa-toolbox
-        keywords: "Git/GitHub, Docker, Jupyter, Cursor"
+        keywords: "Git/GitHub, Docker, GitHub Actions (CI/CD), Jupyter, Cursor"
 
     Languages:
       - name: Persian

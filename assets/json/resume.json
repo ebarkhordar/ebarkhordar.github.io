@@ -319,6 +319,7 @@
       "icon": "fa-solid fa-brain",
       "keywords": [
         "LLMs (Fine-tuning, RAG)",
+        "LangChain",
         "Embeddings & Retrieval",
         "Prompt Engineering",
         "LLM Reasoning",
@@ -348,12 +349,23 @@
     {
       "name": "Backend & APIs",
       "icon": "fa-solid fa-server",
-      "keywords": ["FastAPI", "REST APIs", "GraphQL", "Celery", "Redis", "Auth (JWT/OAuth2)", "HTML/CSS", "JavaScript"]
+      "keywords": [
+        "FastAPI",
+        "REST APIs",
+        "GraphQL",
+        "WebSockets",
+        "Celery",
+        "Redis",
+        "Auth (JWT/OAuth2)",
+        "HTML/CSS",
+        "JavaScript",
+        "TypeScript/Nuxt"
+      ]
     },
     {
       "name": "Dev Tools",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": ["Git/GitHub", "Docker", "Jupyter", "Cursor"]
+      "keywords": ["Git/GitHub", "Docker", "GitHub Actions (CI/CD)", "Jupyter", "Cursor"]
     }
   ],
   "languages": [

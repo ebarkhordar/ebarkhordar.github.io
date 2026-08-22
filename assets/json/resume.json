@@ -188,9 +188,9 @@
   "publications": [
     {
       "name": "Are Non-English Papers Reviewed Fairly? Language-of-Study Bias in NLP Peer Reviews",
-      "publisher": "ACL ARR 2026 March Submission (under review)",
-      "releaseDate": "2026-03-01",
-      "url": "",
+      "publisher": "Proceedings of EMNLP 2026 (Main Conference), Budapest, Hungary",
+      "releaseDate": "2026-11-01",
+      "url": "https://arxiv.org/abs/2604.07119",
       "summary": "Ehsan Barkhordar, Abdulfattah Safa, Verena Blaschke, Erika Lombart, Marie-Catherine de Marneffe, Gözde Gül Şahin."
     },
     {
@@ -255,9 +255,7 @@
     {
       "name": "Named Entity Recognition in Turkish Tweets (Yildirim Platform)",
       "summary": "Developed an annotation platform (Yildirim) for labeling named entities in Turkish tweets.",
-      "highlights": [
-        "Annotated 5,000 tweets from a 700M+ tweet dataset to improve NER performance on low-resource, informal language."
-      ],
+      "highlights": ["Annotated 5,000 tweets from a 700M+ tweet dataset to improve NER performance on low-resource, informal language."],
       "startDate": "2024-06-01",
       "endDate": "2024-09-01"
     },
@@ -283,9 +281,7 @@
     {
       "name": "Shilling Attack Detection in Recommender Systems",
       "summary": "Investigated detection of profile injection (shilling) attacks in recommender systems.",
-      "highlights": [
-        "Extracted RDMA, WDA, and TF-IDF features; evaluated multiple classifiers (KNN, Random Forest, SVM)."
-      ],
+      "highlights": ["Extracted RDMA, WDA, and TF-IDF features; evaluated multiple classifiers (KNN, Random Forest, SVM)."],
       "startDate": "2020-05-01",
       "endDate": "2020-05-01",
       "url": "https://github.com/ebarkhordar/shilling-attack-detection-for-recommender-systems"
@@ -300,13 +296,7 @@
     {
       "name": "Python Frameworks",
       "icon": "fa-brands fa-python",
-      "keywords": [
-        "PyTorch",
-        "Hugging Face (Transformers, Datasets, Accelerate, PEFT)",
-        "Scikit-learn",
-        "Pandas",
-        "NumPy"
-      ]
+      "keywords": ["PyTorch", "Hugging Face (Transformers, Datasets, Accelerate, PEFT)", "Scikit-learn", "Pandas", "NumPy"]
     },
     {
       "name": "GenAI & NLP",
@@ -342,16 +332,7 @@
     {
       "name": "Backend & APIs",
       "icon": "fa-solid fa-server",
-      "keywords": [
-        "FastAPI",
-        "REST APIs",
-        "GraphQL",
-        "Celery",
-        "Redis",
-        "Auth (JWT/OAuth2)",
-        "HTML/CSS",
-        "JavaScript"
-      ]
+      "keywords": ["FastAPI", "REST APIs", "GraphQL", "Celery", "Redis", "Auth (JWT/OAuth2)", "HTML/CSS", "JavaScript"]
     },
     {
       "name": "Dev Tools",
@@ -380,14 +361,7 @@
     {
       "name": "Research interests",
       "icon": "fa-solid fa-magnifying-glass",
-      "keywords": [
-        "NLP",
-        "Computational Social Science",
-        "Bias detection",
-        "Multilingual NLP",
-        "Agentic AI",
-        "LLM evaluation"
-      ]
+      "keywords": ["NLP", "Computational Social Science", "Bias detection", "Multilingual NLP", "Agentic AI", "LLM evaluation"]
     }
   ]
 }

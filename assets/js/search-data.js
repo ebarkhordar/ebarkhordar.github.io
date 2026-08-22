@@ -48,6 +48,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-submitted-our-new-paper-are-non-english-papers-reviewed-fairly-language-of-study-bias-in-nlp-peer-reviews-to-acl-arr-2026-march-this-is-joint-work-with-abdulfattah-safa-verena-blaschke-erika-lombart-marie-catherine-de-marneffe-and-gözde-gül-şahin",
           title: '📝 We submitted our new paper “Are Non-English Papers Reviewed Fairly? Language-of-Study Bias...',
           description: "",
+          section: "News",},{id: "news-our-paper-are-non-english-papers-reviewed-fairly-language-of-study-bias-in-nlp-peer-reviews-has-been-accepted-to-the-emnlp-2026-main-conference-15-4-acceptance-rate-see-you-in-budapest-joint-work-with-abdulfattah-safa-verena-blaschke-erika-lombart-marie-catherine-de-marneffe-and-gözde-gül-şahin-arxiv-code-amp-amp-data",
+          title: '🎉 Our paper “Are Non-English Papers Reviewed Fairly? Language-of-Study Bias in NLP Peer...',
+          description: "",
           section: "News",},{id: "projects-llm-collusion-and-identifiability-in-code-generation",
           title: 'LLM Collusion and Identifiability in Code Generation',
           description: "Investigates whether large language models can recognize or attribute code authored by themselves or other LLMs.",
@@ -55,7 +58,7 @@ ninja.data = [{
               window.location.href = "/projects/1_llm_collusion/";
             },},{id: "projects-bias-toward-languages-studied-in-nlp-peer-reviews",
           title: 'Bias Toward Languages Studied in NLP Peer Reviews',
-          description: "First systematic study of language-of-study bias in NLP peer review, finding that non-English papers face bias rates roughly 40× higher than English-only ones.",
+          description: "Accepted to EMNLP 2026 (Main Conference). First systematic study of language-of-study bias in NLP peer review, finding that non-English papers face bias rates roughly 40× higher than English-only ones.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_nlp_bias/";
             },},{id: "projects-multimodal-framework-for-detecting-implicit-hate-speech-on-social-media",

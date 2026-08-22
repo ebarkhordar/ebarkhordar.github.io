@@ -60,7 +60,13 @@
       "startDate": "2023-09-01",
       "endDate": "2026-02-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Set technical direction for an AI consumer-intelligence platform (emotion detection, consumer journey, and brand health analytics) spanning a FastAPI/ClickHouse backend, two Nuxt 4 frontends, and an LLM assistant, supporting a team of 12 engineers.",
+        "Built the AI infrastructure behind Enlighter, an agentic analytics assistant: LangChain/OpenAI tool-calling over 83 analytics endpoints, WebSocket response streaming, templated prompt management, and automated PDF report generation.",
+        "Cut API latency by replacing a singleton ClickHouse client with a thread-safe connection pool, moving blocking queries off the async event loop, and eliminating N+1 JWT lookups.",
+        "Containerized all four services and built GitHub Actions pipelines deploying to isolated staging, demo, and production environments, with automated cache flushing and post-deploy warm-up.",
+        "Added multi-region ClickHouse routing and led recurring code audits and refactors, including splitting a 692-line auth router into five focused modules and standardizing configuration and structured logging."
+      ]
     },
     {
       "name": "Pishro Net Energy",

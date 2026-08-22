@@ -58,7 +58,7 @@ I'm an NLP researcher working on <strong>bias detection</strong>, <strong>multil
 
 ### Background
 
-I received my M.Sc. in Computer Science from [Koç University](https://www.ku.edu.tr/en/) with a **3.8 / 4.0 GPA**, advised by [Asst. Prof. Gözde Gül Şahin](https://gozdesahin.github.io/) (primary) and [Prof. Erdem Yörük](https://scholar.google.com.tr/citations?user=WHMhrZcAAAAJ) (co-advisor). Before Koç, I worked as an ML and senior software engineer building production systems and predictive models, and I also hold an M.Sc. and B.Sc. in Computer Science from Amirkabir University of Technology (Tehran Polytechnic).
+I received my M.Sc. in Computer Science from [Koç University](https://www.ku.edu.tr/en/) with a **3.8 / 4.0 GPA**, advised by [Asst. Prof. Gözde Gül Şahin](https://gozdesahin.github.io/) (primary) and [Prof. Erdem Yörük](https://scholar.google.com.tr/citations?user=WHMhrZcAAAAJ) (co-advisor). Alongside and before Koç, I worked in industry as a technical lead, ML engineer, and senior software engineer building production systems and predictive models, and I also hold an M.Sc. and B.Sc. in Computer Science from Amirkabir University of Technology (Tehran Polytechnic).
 
 I've authored multiple first-author papers at venues including EMNLP, ACM Web Science, LREC-COLING (SIGUL), and CASE workshops, and serve as a reviewer for ARR, EMNLP, ICLR, and related venues — 100+ papers reviewed to date.
 

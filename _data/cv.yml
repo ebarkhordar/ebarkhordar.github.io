@@ -62,6 +62,14 @@ cv:
           - Trained and fine-tuned transformer-based models (BERT, RoBERTa, GPT) for NER and related tasks.
           - Supervised two research interns, providing mentorship and task delegation.
 
+      - company: Enlighty
+        position: Technical Lead
+        location: Remote
+        start_date: 2023-09
+        end_date: 2026-02
+        summary: ""
+        highlights: []
+
       - company: Pishro Net Energy
         position: Machine Learning Engineer
         location: Tehran, Iran

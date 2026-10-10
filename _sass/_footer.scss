@@ -23,6 +23,20 @@ footer.fixed-bottom {
   }
 }
 
+// On phones (and landscape phones) a pinned footer permanently covers a large
+// slice of the screen, so let it sit at the end of the page instead and drop
+// the body padding that reserves room for it (see _layout.scss).
+@media (max-width: 575px), (max-height: 500px) {
+  body {
+    padding-bottom: 0;
+  }
+
+  footer.fixed-bottom {
+    position: static;
+    margin-top: 2.5rem;
+  }
+}
+
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;

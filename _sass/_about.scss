@@ -79,6 +79,25 @@
   }
 }
 
+// Keep all three stats on one row on phones instead of wrapping 2 + 1.
+@media (max-width: 575px) {
+  .about-stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  .about-stat {
+    &__num {
+      font-size: 1.4rem;
+    }
+
+    &__label {
+      font-size: 0.68rem;
+    }
+  }
+}
+
 .about-hobbies {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));

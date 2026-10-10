@@ -110,3 +110,15 @@
   margin-right: 0.55rem;
   color: var(--global-text-color-light);
 }
+
+// On phones the affiliation often wraps and the separator dot ends up leading
+// the new line; give it its own line on every card instead.
+@media (max-width: 575px) {
+  .project-affil {
+    flex-basis: 100%;
+
+    &::before {
+      content: none;
+    }
+  }
+}

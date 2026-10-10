@@ -90,6 +90,19 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// On phones a full-width float leaves no room beside it, so flex blocks that
+// follow (focus chips, stats) collapse to zero width on top of the photo.
+// Stack the photo centered instead, small enough to keep the intro in view.
+@media (max-width: 575px) {
+  .profile.float-right,
+  .profile.float-left {
+    float: none !important; // Bootstrap's .float-* utilities are !important
+    width: 60%;
+    max-width: 240px;
+    margin: 0.25rem auto 1.5rem;
+  }
+}
+
 // CV
 
 .cv {
@@ -212,6 +225,12 @@ ul.task-list input[type="checkbox"] {
 
   .contact-note {
     font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .social .contact-icons {
+    font-size: 2rem;
   }
 }
 

@@ -113,11 +113,7 @@
     gap: 0.35rem;
     min-width: 7.5rem;
     padding: 1.1rem 0.85rem;
-    background: linear-gradient(
-      180deg,
-      rgba(127, 127, 127, 0.06),
-      rgba(127, 127, 127, 0.02)
-    );
+    background: linear-gradient(180deg, rgba(127, 127, 127, 0.06), rgba(127, 127, 127, 0.02));
     border-right: 1px solid var(--global-divider-color);
     text-align: center;
     flex-shrink: 0;

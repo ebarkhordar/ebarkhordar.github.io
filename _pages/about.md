@@ -94,6 +94,14 @@ I've authored multiple first-author papers at venues including EMNLP, ACM Web Sc
     </span>
     <span class="highlight-chip__arrow"><i class="fa-solid fa-arrow-right"></i></span>
   </a>
+  <a class="highlight-chip" href="{{ '/security/' | relative_url }}">
+    <span class="highlight-chip__icon"><i class="fa-solid fa-shield-halved"></i></span>
+    <span class="highlight-chip__body">
+      <span class="highlight-chip__title">Security research on AI agent tooling</span>
+      <span class="highlight-chip__sub">Guardrails, permission layers, coordinated disclosure</span>
+    </span>
+    <span class="highlight-chip__arrow"><i class="fa-solid fa-arrow-right"></i></span>
+  </a>
   <a class="highlight-chip" href="https://scholar.google.com/citations?user=rhsSW1gAAAAJ">
     <span class="highlight-chip__icon"><i class="si si-google-scholar"></i></span>
     <span class="highlight-chip__body">

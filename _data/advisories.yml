@@ -1,0 +1,9 @@
+# Published security advisories, listed on /security/.
+# Add an entry only after the advisory is public. Example:
+#
+# - id: GHSA-xxxx-xxxx-xxxx
+#   url: https://github.com/OWNER/REPO/security/advisories/GHSA-xxxx-xxxx-xxxx
+#   project: OWNER/REPO
+#   summary: One-line description of the issue
+#   severity: High
+[]

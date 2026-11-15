@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-security",
+          title: "Security",
+          description: "Security research on AI agent tooling.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/security/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",

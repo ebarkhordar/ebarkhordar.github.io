@@ -43,13 +43,12 @@
               <div class="course-card__meta">
                 {% if course.term %}
                   <span class="course-card__chip">
-                    <i class="fa-regular fa-calendar"></i>{{ course.term }} {{ course.year }}
+                    <i class="fa-regular fa-calendar"></i>{{ course.term }}
+                    {{ course.year }}
                   </span>
                 {% endif %}
                 {% if course.location %}
-                  <span class="course-card__chip">
-                    <i class="fa-regular fa-building"></i>{{ course.location }}
-                  </span>
+                  <span class="course-card__chip"> <i class="fa-regular fa-building"></i>{{ course.location }} </span>
                 {% endif %}
                 {% if course.instructor %}
                   <span class="course-card__chip">
